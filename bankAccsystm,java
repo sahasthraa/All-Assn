@@ -1,0 +1,27 @@
+public class bankAccsystm {
+    String accHolderName;
+    float accBalance;
+
+public static void main(String args[]){
+    bankAccsystm obj=new bankAccsystm();
+    obj.accHolderName="sahasthra";
+    obj.accBalance=50000;
+    System.out.println(obj.accHolderName+  " is having " + obj.accBalance + " in their account");
+    obj.deposit(15000);
+    obj.withdraw(8000);
+    obj.displayBalance();
+}
+public void deposit(float amt){
+    accBalance=accBalance+amt;
+    System.out.println(amt+ " is deposited to your acc successfully");
+
+}
+public void withdraw(float amt){
+    accBalance=accBalance-amt;
+    System.out.println(amt+ " is withdrawn from your account successfully");
+
+}
+public void displayBalance(){
+    System.out.println("your current acc balance is: " + accBalance);
+}
+}
