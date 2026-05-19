@@ -4,6 +4,6 @@ public class cat extends Animal {
     @Override
     String sound(){
 
-        return "cat = meow, meow";
+        return "cat is  meow, meow";
     }
 }
