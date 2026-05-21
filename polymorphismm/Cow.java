@@ -7,5 +7,4 @@ String sound(){
        return "cow says ambaa ambaa";
 }
 
-
 }
