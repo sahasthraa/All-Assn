@@ -4,7 +4,8 @@ public abstract class grandfather {
         System.out.println("black");
     }
 
-    public void skin tone(){
+    public void skintone(){
         System.out.println("dusky");
     }
+    
 }
