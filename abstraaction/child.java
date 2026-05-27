@@ -1,4 +1,4 @@
-public class child {
+public class child extends father {
 
 
     public void eyecolor(){
@@ -7,6 +7,7 @@ public class child {
     public void eyebrows (){
         System.out.println("thick brows");
     }
+    public static void main(String args[]){
     child c=new child();
      c.hair();
      c.skintone();
@@ -14,5 +15,7 @@ public class child {
      c.height();
      c.eyecolor();
      c.eyebrows();
+
+}
 
 }
