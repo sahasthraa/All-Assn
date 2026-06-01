@@ -12,6 +12,7 @@ name.add("meghana");
 name.add("varshini");
 name.removeFirst();
 name.removeLast();
+
 System.out.println("student names:" +name);
 System.out.println(name.peek());
 
