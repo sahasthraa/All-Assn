@@ -12,9 +12,9 @@ public class numbers {
       num.add(68);
       num.add(3,44);
       System.out.println("num:" + num);
+
     
-    
-    
+      
     }
 
 }
