@@ -4,6 +4,7 @@ import java.util.ArrayList;
 public class marks {
 
     public static void main(String args[]){
+        
         ArrayList<String> mks= new ArrayList<>();
    mks.add("sahasthra " );
    mks.add("vaishnavi");
