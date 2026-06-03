@@ -13,7 +13,7 @@ public class numbers {
       num.add(3,44);
       
       System.out.println("num:" + num);
-
+      System.out.println(num.size());
     
       
     }
