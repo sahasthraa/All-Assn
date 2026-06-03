@@ -15,10 +15,30 @@ public class marks {
    
    System.out.println("marks :" + mks);
    System.out.println(mks.size());
-   
+
     }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
     
 }
+
