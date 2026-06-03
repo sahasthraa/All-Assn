@@ -15,6 +15,7 @@ HashSet<String> fruits=new HashSet<>();
     fruits.add("orange");
 
 
+
     System.out.println("fruits:" +fruits);
     System.out.println(fruits.size());
     System.out.println(fruits.contains("kiwi"));
@@ -22,3 +23,4 @@ HashSet<String> fruits=new HashSet<>();
     System.out.println(fruits.contains("kiwi"));
     }
 }
+
