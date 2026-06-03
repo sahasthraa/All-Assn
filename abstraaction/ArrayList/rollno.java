@@ -16,5 +16,6 @@ public class rollno{
 
         System.out.println("rollno:" +rno);
         
+        
     }
 }
