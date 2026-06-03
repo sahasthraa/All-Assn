@@ -12,10 +12,9 @@ public class rollno{
         rno.add(25);
         rno.add(5,26);
         rno.set(2,22);
-        
-       System.out.println(rno.size());
 
-        System.out.println("rollno:" +rno);
+       System.out.println(rno.size());
+ System.out.println("rollno:" +rno);
 
         
     }
