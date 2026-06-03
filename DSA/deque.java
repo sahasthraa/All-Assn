@@ -20,3 +20,4 @@ public class deque {
         System.out.println(Deque);
     }
 }
+
