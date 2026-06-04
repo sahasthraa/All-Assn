@@ -25,3 +25,4 @@ public class Stack1 {
         System.out.println(participants.search("somu"));
     }
 }
+
